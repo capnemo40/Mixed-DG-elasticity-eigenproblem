@@ -8,10 +8,8 @@ Further details on the model and discretisation can be found in  [reference](htt
 
 ```
 @Article{ms_DGelastEigen,
-title = {Symmetric mixed discontinuous Galerkin methods for linear viscoelasticity}, 
+title = {A DG method for a stress formulation of the elasticity eigenproblem with strongly imposed symmetry}, 
 author = {Meddahi, Salim},
-title = {A DG method for a stress formulation of the elasticity 
-eigenproblem with strongly imposed symmetry},
 journal = {Computers & Mathematics with Applications},
 volume = {135},
 year = {2023},
